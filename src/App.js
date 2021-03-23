@@ -12,7 +12,7 @@ import {
 } from 'react-router-dom'
 import ExactPath from './Components/ExactPath'
 import Error404 from './Components/Error404'
-
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 export default class App extends React.Component {

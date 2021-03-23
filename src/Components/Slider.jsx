@@ -1,7 +1,7 @@
 import { useState } from "react";
 import React from 'react';
-import Carousel from 'react-bootstrap/Carousel'  
 import { Link } from "react-router-dom";
+import { Carousel } from 'react-responsive-carousel';
 
 function Slider()
 {

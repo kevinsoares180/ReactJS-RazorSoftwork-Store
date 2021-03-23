@@ -1,25 +1,53 @@
-import logo from './logo.svg';
-import './App.css';
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+import Footer from './Components/Footer'
+import GamePage from './Components/GamePage'
+import Games from './Components/Games'
+import Navbar from './Components/Navbar'
+import Slider from './Components/Slider'
+import React from 'react'
+import {
+  BrowserRouter as Router,
+  Route,
+  Switch as Switcher, useParams, useRouteMatch
+} from 'react-router-dom'
+import ExactPath from './Components/ExactPath'
+import Error404 from './Components/Error404'
+
+
+
+export default class App extends React.Component {
+  constructor(props) {
+    super(props)
+    this.state = {
+      ID: '',
+    }
+
+  }
+
+  handleToUpdate = (id) => {
+    this.setState({ ID: id })
+    console.log(this.state.id + "set")
+  }
+  render() {
+    return (
+      <>
+        <Router>
+        <Navbar />
+          <Switcher>
+            <Route exact path="/">
+              <Slider />
+              <Games handleToUpdate={this.handleToUpdate} />
+            </Route>
+            <Route path={`/games/appid/:idroute`}>
+              <ExactPath/>
+            </Route>
+          <Route>
+            <Error404/>
+          </Route>
+          </Switcher>
+          <Footer />
+        </Router>
+      </>
+    )
+  }
 }
-
-export default App;

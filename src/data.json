@@ -1,0 +1,148 @@
+ {
+ "Games": [
+    {
+        "ID": "0",
+        "Name": "Buzz Lightyear Horror Game",
+        "Date": "2021",
+        "Developer": "Razor Softworks",
+        "Price": "Gratuito",
+        "Sobre": "Uma casa escura e sômbria, um psicopata um tanto quanto diferente, tente sobreviver nesse clima de cómedia com suspense.",
+        "Genre": [
+            
+                "Terror",
+                "Engraçado",
+                "Primeira Pessoa"
+            
+        ],
+        "Icon": "https://img.itch.zone/aW1nLzU0NzcyNDMuanBn/315x250%23c/eJtC18.jpg",
+        "Screenshots": [
+            
+            "https://i.imgur.com/dmgUfrs.jpg",
+           "https://i.imgur.com/u0FNrY4.jpg",
+            "https://i.imgur.com/Zc9BtgZ.jpg"
+            
+        ],
+        "DownloadURL": "https://www.dropbox.com/s/0lg6tbzhpgorpxa/Buzz%20Lightyear%20Horror.rar?dl=1"
+    },
+    {
+        "ID": "1",
+        "Name": "Batalha das Torres",
+        "Date": "2021",
+        "Developer": "Razor Softworks",
+        "Price": "Gratuito",
+        "Sobre": "No faroeste nada é facil, inimigos tentando derrubar sua torre em busca de poder, canhões e tiros para todo lado nesse ambiente frenético.",
+        "Genre": [
+            
+            "Tiro",
+            "Cartoon",
+            "Primeira Pessoa"
+        
+    ],
+        "Icon": "https://img.itch.zone/aW1nLzQ5Mzg1NTQuanBn/315x250%23c/WHWJ8q.jpg",
+        "Screenshots": [
+            
+            "https://i.imgur.com/WBy8rX6.jpg",
+           "https://i.imgur.com/5z59RoU.jpg",
+            "https://i.imgur.com/cZNXPVe.jpg"
+            
+        ],
+        "DownloadURL": "https://www.dropbox.com/s/8g3a7bkokl8tfor/Batalha%20das%20Torres%20Build%200.7.rar?dl=1"
+    },
+    {
+        "ID": "2",
+        "Name": "Happy Kingdoms",
+        "Date": "2020",
+        "Developer": "Razor Softworks",
+        "Price": "Gratuito",
+        "Sobre": "Descubra o mundo maravilhoso de Happy Kingdoms, se aventurando em missões para eliminar a força do mal que vem assombrando esse reino tão especial.",
+        "Genre": [
+            
+            "RPG",
+            "Cartoon",
+            "Primeira Pessoa"
+        
+    ],
+        "Icon": "https://img.itch.zone/aW1nLzQ0MDczNjIuanBn/315x250%23c/TkI26O.jpg",
+        "Screenshots": [
+            
+            "https://i.imgur.com/pH3eEt5.jpg",
+           "https://i.imgur.com/BKVq6Fs.jpg",
+            "https://i.imgur.com/mha2iK3.jpeg"
+            
+        ],
+        "DownloadURL": "https://www.dropbox.com/s/t0m5qljnnxxg3s1/Happy%20Kingdoms.rar?dl=1"
+    },
+    {
+        "ID": "3",
+        "Name": "Alone In The House",
+        "Date": "2020",
+        "Developer": "Razor Softworks",
+        "Price": "Gratuito",
+        "Sobre": "Alguém parece estar lá fora e estou sozinho em casa, preciso reunir minhas forças para impedir que estranhos entrem em casa.",
+        "Genre": [
+            
+            "Suspense",
+            "Tiro",
+            "Primeira Pessoa"
+        
+    ],
+        "Icon": "https://img.itch.zone/aW1nLzQzODY5MTcuanBn/315x250%23c/T9WZVo.jpg",
+        "Screenshots": [
+            
+            "https://i.imgur.com/qChp1zR.jpg",
+           "https://i.imgur.com/APaApUj.jpg",
+            "https://i.imgur.com/2oqhFgi.jpg"
+            
+        ],
+        "DownloadURL": "https://www.dropbox.com/s/xaq88tcttac35bg/ALONE%20IN%20THE%20HOUSE%20V0.01.rar?dl=1"
+    },
+    {
+        "ID": "4",
+        "Name": "The Wizard Adventures",
+        "Date": "2020",
+        "Developer": "Razor Softworks",
+        "Price": "Gratuito",
+        "Sobre": "Consiga todos os cristais para que o portal do Doutor Maligno se abra, derrote todos os chefes e seus guadas-costas para consegui-los.",
+        "Genre": [
+            
+            "Aventura",
+            "Arcade",
+            "Terceira Pessoa"
+        
+    ],
+        "Icon": "https://img.itch.zone/aW1nLzM4MDQyMzEuanBn/315x250%23c/JskLSn.jpg",
+        "Screenshots": [
+            
+            "https://i.imgur.com/v8wlGTg.jpg",
+           "https://i.imgur.com/KmlRiFd.jpg",
+            "https://i.imgur.com/wyQsEpG.jpg"
+            
+        ],
+        "DownloadURL": "https://www.dropbox.com/s/t8x53rmir6u1g7u/the%20wizard%20adventures.rar?dl=1"
+    },
+    {
+        "ID": "5",
+        "Name": "Hospital Black River",
+        "Date": "2019",
+        "Developer": "Razor Softworks",
+        "Price": "Gratuito",
+        "Sobre": "Um estranho hospital no meio do nada chamado Black River, relatos e pertubações aos arredores do hospital, há muitos anos o hospital já havia fechado porém você terá que investigar oque está acontecendo lá dentro, segredos dos médicos, segredos perturbadores, criaturas misticas ou paranormais?.",
+        "Genre": [
+            
+            "Terror",
+            "Suspense",
+            "Primeira Pessoa"
+        
+    ],
+        "Icon": "https://img.itch.zone/aW1nLzI2ODc2MTIuanBn/315x250%23c/6Tm75Z.jpg",
+        "Screenshots": [
+            
+            "https://i.imgur.com/Zd9x5Dg.jpg",
+           "https://i.imgur.com/EUWDEzW.jpg",
+            "https://i.imgur.com/7PEUWEl.jpg"
+            
+        ],
+        "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+    }
+]
+ }

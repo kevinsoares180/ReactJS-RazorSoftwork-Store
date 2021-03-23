@@ -1,6 +1,5 @@
 
 import Footer from './Components/Footer'
-import GamePage from './Components/GamePage'
 import Games from './Components/Games'
 import Navbar from './Components/Navbar'
 import Slider from './Components/Slider'
@@ -12,7 +11,6 @@ import {
 } from 'react-router-dom'
 import ExactPath from './Components/ExactPath'
 import Error404 from './Components/Error404'
-import 'bootstrap/dist/css/bootstrap.min.css'
 
 
 export default class App extends React.Component {

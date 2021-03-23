@@ -1,6 +1,4 @@
 import React from "react";
-import Carousel from "react-bootstrap/Carousel";
-import { First } from "react-bootstrap/esm/PageItem";
 import data from "../data.json";
 
 

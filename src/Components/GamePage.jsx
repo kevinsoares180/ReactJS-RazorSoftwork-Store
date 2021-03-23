@@ -1,7 +1,8 @@
-import { Carousel } from 'react-responsive-carousel';
+
 import React from "react";
 import data from "../data.json";
 
+import Carousel from 'react-bootstrap/Carousel' 
 
 
 

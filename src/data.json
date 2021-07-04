@@ -143,6 +143,30 @@
             
         ],
         "DownloadURL": "https://www.dropbox.com/s/3rm8zbmhpaahbc3/HOSPITAL%20BLACK%20RIVER%201.6.2.rar?dl=1"
+    },
+        {
+        "ID": "6",
+        "Name": "The Exorcism",
+        "Date": "2021",
+        "Developer": "Razor Softworks",
+        "Price": "Gratuito",
+        "Sobre": "Uma entidade maligna assombra uma casa antiga, você tem o trabalho de investigar e expulsar a entidade demoníaca que vive no local.",
+        "Genre": [
+            
+            "Terror",
+            "Suspense",
+            "Primeira Pessoa"
+        
+    ],
+        "Icon": "https://img.itch.zone/aW1nLzY0MDEwNjUuanBn/315x250%23c/1J8Dwh.jpg",
+        "Screenshots": [
+            
+            "https://img.itch.zone/aW1hZ2UvMTEwODY2Mi82NDAxMTM5LmpwZw==/original/UBv1QA.jpg",
+           "https://img.itch.zone/aW1hZ2UvMTEwODY2Mi82NDAxMTQyLmpwZw==/original/yhO0vs.jpg",
+            "https://img.itch.zone/aW1hZ2UvMTEwODY2Mi82NDAxMTQwLmpwZw==/original/XxPkkF.jpg"
+            
+        ],
+        "DownloadURL": "https://www.dropbox.com/s/36damxmdxxepnrs/The%20Exorcism.rar?dl=1"
     }
 ]
  }
